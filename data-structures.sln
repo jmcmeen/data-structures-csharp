@@ -73,11 +73,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-HierarchyOfIdentifiers",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-SimpleQuiz", "07-SimpleQuiz\07-SimpleQuiz.csproj", "{F82B6517-7327-4CC3-A2C3-D52CCC7E7B6B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-Tree", "07-Tree\07-Tree.csproj", "{8619FE4C-4EC1-46A8-9E8D-E2AE1CE754B8}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-DirectedWeightedEdges", "08-DirectedWeightedEdges\08-DirectedWeightedEdges.csproj", "{3676B44E-D579-4EC7-BCE9-988C834E7B78}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-Graph", "08-Graph\08-Graph.csproj", "{A9556525-2D50-4319-A451-902C12F2B7B9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-PathInGame", "08-PathInGame\08-PathInGame.csproj", "{53B5EB8B-316A-4D28-A67F-0DA6D8FC2895}"
 EndProject
@@ -103,7 +99,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-SudokuPuzzle", "09-Sudok
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-TitleGuess", "09-TitleGuess\09-TitleGuess.csproj", "{03657961-9BE6-44C7-90F9-3062BA5313C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{9E7AD613-AA80-4961-B7EC-984D68041F37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-1-Lists", "04-1-Lists\04-1-Lists.csproj", "{9243A8B4-F702-4A73-A4D5-532B25B9F76E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -251,18 +247,10 @@ Global
 		{F82B6517-7327-4CC3-A2C3-D52CCC7E7B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F82B6517-7327-4CC3-A2C3-D52CCC7E7B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F82B6517-7327-4CC3-A2C3-D52CCC7E7B6B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8619FE4C-4EC1-46A8-9E8D-E2AE1CE754B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8619FE4C-4EC1-46A8-9E8D-E2AE1CE754B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8619FE4C-4EC1-46A8-9E8D-E2AE1CE754B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8619FE4C-4EC1-46A8-9E8D-E2AE1CE754B8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3676B44E-D579-4EC7-BCE9-988C834E7B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3676B44E-D579-4EC7-BCE9-988C834E7B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3676B44E-D579-4EC7-BCE9-988C834E7B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3676B44E-D579-4EC7-BCE9-988C834E7B78}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A9556525-2D50-4319-A451-902C12F2B7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9556525-2D50-4319-A451-902C12F2B7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9556525-2D50-4319-A451-902C12F2B7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9556525-2D50-4319-A451-902C12F2B7B9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{53B5EB8B-316A-4D28-A67F-0DA6D8FC2895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{53B5EB8B-316A-4D28-A67F-0DA6D8FC2895}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53B5EB8B-316A-4D28-A67F-0DA6D8FC2895}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -311,10 +299,10 @@ Global
 		{03657961-9BE6-44C7-90F9-3062BA5313C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03657961-9BE6-44C7-90F9-3062BA5313C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03657961-9BE6-44C7-90F9-3062BA5313C5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9E7AD613-AA80-4961-B7EC-984D68041F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9E7AD613-AA80-4961-B7EC-984D68041F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9E7AD613-AA80-4961-B7EC-984D68041F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9E7AD613-AA80-4961-B7EC-984D68041F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9243A8B4-F702-4A73-A4D5-532B25B9F76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9243A8B4-F702-4A73-A4D5-532B25B9F76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9243A8B4-F702-4A73-A4D5-532B25B9F76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9243A8B4-F702-4A73-A4D5-532B25B9F76E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

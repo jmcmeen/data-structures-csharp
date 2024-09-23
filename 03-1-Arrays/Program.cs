@@ -51,6 +51,11 @@
             //If you already have the values you want to store in mind, you can optionally create an array like this.
             int[] myNums2 = { 8, 6, 7, 5, 3, 0, 9 };
             PrintArrayOnOneLine(myNums2);
+
+            int[] mynums3 = { 5, 4, 3, 2, 1 };
+
+            var sorter = new InsertionSort();
+            sorter.Sort(mynums3);
         }
 
         /// <summary>

@@ -15,7 +15,9 @@ char[,] map =
     { 'w', 'w', 'w', 'w', 'w', 'b', 'w', 'w' }
 
 };
+
 Console.OutputEncoding = Encoding.UTF8;
+
 for (int r = 0; r < map.GetLength(0); r++)
 {
     for (int c = 0; c < map.GetLength(1); c++)
@@ -25,8 +27,9 @@ for (int r = 0; r < map.GetLength(0); r++)
     }
     Console.WriteLine();
 }
-Console.ResetColor();
 
+
+Console.ResetColor();
 
 ConsoleColor GetColor(char terrain)
 {

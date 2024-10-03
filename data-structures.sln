@@ -99,7 +99,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-SudokuPuzzle", "09-Sudok
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-TitleGuess", "09-TitleGuess\09-TitleGuess.csproj", "{03657961-9BE6-44C7-90F9-3062BA5313C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-1-Lists", "04-1-Lists\04-1-Lists.csproj", "{9243A8B4-F702-4A73-A4D5-532B25B9F76E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-1-Lists", "04-1-Lists\04-1-Lists.csproj", "{9243A8B4-F702-4A73-A4D5-532B25B9F76E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-4-PathOfExecution", "01-4-PathOfExecution\01-4-PathOfExecution.csproj", "{BB430A01-2C83-428B-AE4E-B6E21E236E74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{9243A8B4-F702-4A73-A4D5-532B25B9F76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9243A8B4-F702-4A73-A4D5-532B25B9F76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9243A8B4-F702-4A73-A4D5-532B25B9F76E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB430A01-2C83-428B-AE4E-B6E21E236E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB430A01-2C83-428B-AE4E-B6E21E236E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB430A01-2C83-428B-AE4E-B6E21E236E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB430A01-2C83-428B-AE4E-B6E21E236E74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
